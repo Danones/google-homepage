@@ -1,0 +1,22 @@
+.container-wrapper{
+        
+        width: auto;
+        margin: auto;
+        text-align: center;
+        padding-top: 109px;
+        border: none;
+        
+}
+
+.search-input{
+
+        border: none;
+}
+
+.search-form-big{
+        border: 1px solid #dfe1e5;
+        border-radius: 12px;
+        box-shadow: none;
+        height: 44px;
+        margin: auto;
+}
