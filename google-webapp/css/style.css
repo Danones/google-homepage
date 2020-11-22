@@ -47,19 +47,19 @@
 
 .navbar-top{
         display: flex;
-        float: right ;
+        font-size: medium;
         padding-right: 35px;
+        padding-left: 100px;
+        justify-content: right;
+        text-align: justify;
 }
-.applications{
-        position:relative;
-        text-align: right;
+
+.navbar-top > div {
+        width: 30px;
+        margin: 10px;
+        align-self: center;
 }
-.images{
-        background-image: url('//ssl.gstatic.com/gb/images/i2_2ec824b0.png');
-        background-image: url('//ssl.gstatic.com/gb/images/i1_1967ca6a.png');
-        background-size: 528px 68px;
-        
-}
+
 .magnifier-glass{
         max-width: 100%;
         max-height: 100%;
